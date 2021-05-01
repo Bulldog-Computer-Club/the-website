@@ -11,7 +11,8 @@ Clone this project
 - **[The SWC Programming Discord](https://discord.gg/kHnWu8ZFts)**
 
 # Videos
-- **TODO**
+- **[Learn Flask](https://www.youtube.com/watch?v=8MugwYnHdfg&list=PL51sO5o0Si7vcAVwEV-f6bAqChgiubQ3f)**
+- **[Learn Python](https://www.youtube.com/watch?v=fLmVlRY8A04&list=PL51sO5o0Si7snTuFmG3MMr79eq7ZSuxkH)**
 
 # Contributing
 - **TODO**
