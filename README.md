@@ -15,4 +15,4 @@ Clone this project
 - **[Learn Python](https://www.youtube.com/watch?v=fLmVlRY8A04&list=PL51sO5o0Si7snTuFmG3MMr79eq7ZSuxkH)**
 
 # Contributing
-- **TODO**
+- **[Form to send us suggestions for the future of this website](https://forms.gle/DJCaoDH6HRKPRUFb8)**
