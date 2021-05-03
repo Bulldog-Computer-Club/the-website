@@ -1,6 +1,8 @@
 The Website
 ==============================================
+
 The funne website for the SWC programming club
+
 ----------------------------------------------
 
 # Resources
