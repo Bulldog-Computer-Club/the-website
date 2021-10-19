@@ -1,4 +1,4 @@
-The Website
+THIS PROJECT IS DISCONTINUED - The Website
 ==============================================
 
 The funne website for the SWC programming club
